@@ -7,6 +7,7 @@
 ### 1) 소제목
 
 * 실습 코드
+
   import turtle as t # turtle 라이브러리 import
   import random # random 라이브러리 import
 
@@ -117,14 +118,14 @@
 * cmd 창 실행 후 아래 코드 입력
   pip install virtualenv
 * 가상환경 만들기
-  virtual **가상환경이름**/Scripts/activate
+  virtual 가상환경이름/Scripts/activate
 보통 가상환경이름은 venv로 한다.
 * 생성된 가상환경 활성화하기
-  **가상환경이름**/Scripts/activate
+  가상환경이름/Scripts/activate
 * 가상환경에 django 설치하기
   pip install django
 ### 5) 만든 가상환경에서 장고 프로젝트 시작하기
-  django-admin startproject **프로젝트이름**
+  django-admin startproject 프로젝트이름
 
 
 ✔ 여기서 나는 가상환경 활성화가 안됐다. 아마도 내 컴퓨터 이름이 한글로 되어 있는게 원인인 것 같다. 어떻게 해결해야하지...
