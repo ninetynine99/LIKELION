@@ -4,10 +4,7 @@
 ## 1. 파이썬 실습 : 거북이 게임 코드 뜯어보기 - 은숙
 
 
-### 1) 소제목
-
-(1) 실습 코드
-
+### 1) 실습코드
     import turtle as t # turtle 라이브러리 import
     import random # random 라이브러리 import
 
@@ -100,7 +97,7 @@
     message('Turtle Run','[space]') # 메시지를 표시한다.
 
 
-(2) 관련 링크 <http://blog.naver.com/PostView.nhn?blogId=angelrra&logNo=220829815805>
+### 2) 관련 링크 <http://blog.naver.com/PostView.nhn?blogId=angelrra&logNo=220829815805>
 
 
 ***
