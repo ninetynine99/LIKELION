@@ -6,7 +6,7 @@
 
 ### 1) 소제목
 
-* 실습 코드
+(1) 실습 코드
 
     import turtle as t # turtle 라이브러리 import
     import random # random 라이브러리 import
@@ -100,7 +100,7 @@
     message('Turtle Run','[space]') # 메시지를 표시한다.
 
 
-* 관련 링크 <http://blog.naver.com/PostView.nhn?blogId=angelrra&logNo=220829815805>
+(2) 관련 링크 <http://blog.naver.com/PostView.nhn?blogId=angelrra&logNo=220829815805>
 
 
 ***
@@ -115,14 +115,14 @@
 * cmd 창 실행 후 아래 코드 입력
     pip install django
 ### 4) 파이썬 가상환경 구현
-* cmd 창 실행 후 아래 코드 입력
+(1) cmd 창 실행 후 아래 코드 입력
     pip install virtualenv
-* 가상환경 만들기
+(2) 가상환경 만들기
     virtual 가상환경이름/Scripts/activate
 보통 가상환경이름은 venv로 한다.
-* 생성된 가상환경 활성화하기
-  가상환경이름/Scripts/activate
-* 가상환경에 django 설치하기
+(3) 생성된 가상환경 활성화하기
+    가상환경이름/Scripts/activate
+(4) 가상환경에 django 설치하기
     pip install django
 ### 5) 만든 가상환경에서 장고 프로젝트 시작하기
     django-admin startproject 프로젝트이름
